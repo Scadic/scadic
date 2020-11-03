@@ -1,7 +1,7 @@
 ### Hi there 👋
 ## I'm Truls
 
-I'm the head of IT @ION-Racing-UiS\\
+I'm the head of IT @ION-Racing-UiS  
 BSc Student at the University of Stavanger
 
 📫 How to reach me: [<img src="https://image.flaticon.com/icons/png/512/281/281769.png" alt="Gmail" height="25" />](mailto:trulshskadberg@gmail.com) [<img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="Linkedin" height="25" />](https://www.linkedin.com/in/truls-hansen-skadberg)
