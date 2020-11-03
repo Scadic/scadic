@@ -1,4 +1,10 @@
 ### Hi there 👋
+## I'm Truls
+
+I'm the head of IT @ION-Racing-UiS
+BSc Student at the University of Stavanger
+
+📫 How to reach me: [![Gmail](https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x_r2.png "gmail")](mailto:trulshskadberg@gmail.com) [![Linkedin](https://image.flaticon.com/icons/png/512/174/174857.png "linkedin")](www.linkedin.com/in/truls-hansen-skadberg)
 
 <!--
 **Scadic/scadic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
