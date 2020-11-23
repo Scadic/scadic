@@ -1,0 +1,69 @@
+;===IP shortcuts===
+i=ipconfig $*
+ipa=ipconfig /all $*
+ipf=ipconfig /flushdns $*
+ipv4=netsh interface ipv4 show config $*									;===Can accept Interface names to show config of a specific interface.===
+setip=netsh interface ipv4 set address $1 static $2 $3 $4					;===Set IPv4 address of an interface (i.e. setip "Local Area Connection" 192.168.0.10 255.255.255.0 192.168.0.1) 
+
+;===Commands===
+ex=explorer $*
+e.=explorer .\
+d=dir $*
+t=dir /b /s
+og=dir /d /og $*
+map=net use $*
+ns=nslookup $*
+p=ping $*
+e=exit
+
+;===Administrative tools===
+dp=diskpart $*
+dev=devmgmt.msc
+disk=diskmgmt.msc
+mouse=control main.cpl
+events=eventvwr.msc /s
+tasks=taskschd.msc /s
+firewall=%windir%\system32\WF.msc
+
+;===Windows Server===
+aduc=dsa.msc																;===Active Directory Users and Computers===
+dns=dnsmgmt.msc																;===DNS Management===
+fileserver=%windir%\system32\fsm.msc										;===File Server Resource Manager===
+gpmc=%SystemRoot%\system32\gpmc.msc											;===Group Policy Management===
+wds=%windir%\system32\WdsMgmt.msc											;===Windows Deployment Services===
+
+;===Editors===
+npp="%programfiles%\Notepad++\notepad++.exe" $*
+np=notepad $*
+macros="%programfiles%\Notepad++\notepad++.exe" %userprofile%\doskey		;===Open notepad++ and the macrofile===
+
+;===Media===
+vlc="%programfiles%\VideoLAN\VLC\vlc.exe"
+
+;===Browser===
+ff="start firefox" $*
+fp="start firefox --private-window" $*
+
+;===Unix tools===
+ls=dir /b $*
+l=dir /od/p/q/tw $*
+mv=move $*
+cp=copy $*
+rm=del $*
+rmdir=rd /s /q $*
+cat=type $*
+;===python===
+py=python $*
+pi=pip $*
+pipu=python -m pip install --upgrade pip
+
+;===GIT===
+gut=git $*
+gf=git fetch --all $*
+gp=git pull
+gpu=git push
+branch=git branch $*
+check=git checkout $*
+
+;===List macros===
+li=type %userprofile%\doskey
