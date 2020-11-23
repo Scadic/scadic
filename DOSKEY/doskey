@@ -3,7 +3,7 @@ i=ipconfig $*
 ipa=ipconfig /all $*
 ipf=ipconfig /flushdns $*
 ipv4=netsh interface ipv4 show config $*									;===Can accept Interface names to show config of a specific interface.===
-setip=netsh interface ipv4 set address $1 static $2 $3 $4					;===Set IPv4 address of an interface (i.e. setip "Local Area Connection" 192.168.0.10 255.255.255.0 192.168.0.1) 
+setip=netsh interface ipv4 set address $1 static $2 $3 $4					;===Set IPv4 address of an interface (i.e. setip "Local Area Connection" 192.168.0.10 255.255.255.0 192.168.0.1).===
 
 ;===Commands===
 ex=explorer $*
@@ -15,6 +15,7 @@ map=net use $*
 ns=nslookup $*
 p=ping $*
 e=exit
+drives=wmic logicaldisk get caption, description, filesystem, volumename	;===Query Windows for all logical disks and output drive letter, description, filesystem and volumename.===
 
 ;===Administrative tools===
 dp=diskpart $*
