@@ -15,7 +15,8 @@ map=net use $*
 ns=nslookup $*
 p=ping $*
 e=exit
-drives=wmic logicaldisk get caption, description, filesystem, volumename	;===Query Windows for all logical disks and output drive letter, description, filesystem and volumename.===
+drives=wmic logicaldisk get caption,description,filesystem,volumename	;===Query Windows for all logical disks and output drive letter, description, filesystem and volumename.===
+drv=wmic logicaldisk get caption,description,filesystem,volumename
 
 ;===Administrative tools===
 dp=diskpart $*
@@ -67,4 +68,4 @@ branch=git branch $*
 check=git checkout $*
 
 ;===List macros===
-li=type %userprofile%\doskey
+li=type "%userprofile%\doskey"
