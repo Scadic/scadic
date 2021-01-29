@@ -26,6 +26,7 @@ mouse=control main.cpl
 events=eventvwr.msc /s
 tasks=taskschd.msc /s
 firewall=%windir%\system32\WF.msc
+gpr=GPResult /F /H "%USERPROFILE%\GPResults\GPResult-%COMPUTERNAME%.html"
 
 ;===Windows Server===
 aduc=dsa.msc																;===Active Directory Users and Computers===
