@@ -11,6 +11,7 @@ e.=explorer .\
 d=dir $*
 t=dir /b /s
 og=dir /d /og $*
+lf=dir /a /oe /q /p $*
 map=net use $*
 ns=nslookup $*
 p=ping $*
