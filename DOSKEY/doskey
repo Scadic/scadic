@@ -2,8 +2,8 @@
 i=ipconfig $*
 ipa=ipconfig /all $*
 ipf=ipconfig /flushdns $*
-ipv4=netsh interface ipv4 show config $*									;===Can accept Interface names to show config of a specific interface.===
-setip=netsh interface ipv4 set address $1 static $2 $3 $4					;===Set IPv4 address of an interface (i.e. setip "Local Area Connection" 192.168.0.10 255.255.255.0 192.168.0.1).===
+ipv4=netsh interface ipv4 show config $*
+setip=netsh interface ipv4 set address $1 static $2 $3 $4
 
 ;===Commands===
 ex=explorer $*
@@ -16,7 +16,7 @@ map=net use $*
 ns=nslookup $*
 p=ping $*
 e=exit
-drives=wmic logicaldisk get caption,description,filesystem,volumename	;===Query Windows for all logical disks and output drive letter, description, filesystem and volumename.===
+drives=wmic logicaldisk get caption,description,filesystem,volumename
 drv=wmic logicaldisk get caption,description,filesystem,volumename
 
 ;===Administrative tools===
@@ -28,18 +28,20 @@ events=eventvwr.msc /s
 tasks=taskschd.msc /s
 firewall=%windir%\system32\WF.msc
 gpr=GPResult /F /H "%USERPROFILE%\GPResults\GPResult-%COMPUTERNAME%.html"
+users=net user $*
+groups=net localgroup $*
 
 ;===Windows Server===
-aduc=dsa.msc																;===Active Directory Users and Computers===
-dns=dnsmgmt.msc																;===DNS Management===
-fileserver=%windir%\system32\fsm.msc										;===File Server Resource Manager===
-gpmc=%SystemRoot%\system32\gpmc.msc											;===Group Policy Management===
-wds=%windir%\system32\WdsMgmt.msc											;===Windows Deployment Services===
+aduc=mmc "%windir%\system32\dsa.msc"
+dns=mmc "%windir%\system32\dnsmgmt.msc"
+fileserver=mmc "%windir%\system32\fsm.msc"
+gpmc=mmc "%SystemRoot%\system32\gpmc.msc"
+wds=mmc "%windir%\system32\WdsMgmt.msc"
 
 ;===Editors===
 npp="%programfiles%\Notepad++\notepad++.exe" $*
 np=notepad $*
-macros="%programfiles%\Notepad++\notepad++.exe" %userprofile%\doskey		;===Open notepad++ and the macrofile===
+macros="%programfiles%\Notepad++\notepad++.exe" "%userprofile%\doskey"
 
 ;===Media===
 vlc="%programfiles%\VideoLAN\VLC\vlc.exe"
