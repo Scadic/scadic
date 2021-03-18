@@ -16,6 +16,8 @@ map=net use $*
 ns=nslookup $*
 p=ping $*
 e=exit
+powershell=start powershell
+powerhell=start powershell
 drives=wmic logicaldisk get caption,description,filesystem,volumename
 drv=wmic logicaldisk get caption,description,filesystem,volumename
 
