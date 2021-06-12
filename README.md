@@ -1,7 +1,7 @@
 ### Hi there 👋
 ## I'm Truls
 
-Active Directory Consulent @Helse Vest IKT  
+Active Directory System Administrator @Helse Vest IKT  
 I was head of IT @ION-Racing-UiS  
 BSc Student at the University of Stavanger  
 
