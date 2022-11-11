@@ -10,12 +10,12 @@ Currently working as a System administrator @Helse Vest IKT AS for AD/DNS, Windo
  - Jan. 2021 - \<Present\> - \(<img src="assets/Hvikt.png" alt="HVIKT" height="15" />\) System administrator [<img src="assets/Hvikt.png" alt="HVIKT" height="25" />](https://helse-vest-ikt.no/)
 
 #### Some analytics ⚡
-[![Scadic's GitHub stats](https://github-readme-stats.vercel.app/api?username=scadic&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+[![Scadic's GitHub stats](https://github-readme-stats.vercel.app/api?username=scadic&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=scadic&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=scadic&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Trophys 🏆
-[![trophy](https://github-profile-trophy.vercel.app/?username=scadic&theme=chalk)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=scadic&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 📫 How to reach me: [<img src="assets/Gmail.png" alt="Gmail" height="25" />](mailto:trulshskadberg@gmail.com) [<img src="assets/Linkedin.png" alt="Linkedin" height="25" />](https://www.linkedin.com/in/truls-hansen-skadberg) [<img src="assets/Instagram.png" alt="Instagram" height="25" />](https://www.instagram.com/truls.skadn/)
 
