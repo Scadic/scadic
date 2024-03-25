@@ -1,7 +1,7 @@
 ### Hi there 👋
 ## I'm Truls
 
-Currently working as a System administrator @Helse Vest IKT AS for AD/DNS, Windows Servers and NAS services.
+Currently working as a System administrator @Helse Vest IKT AS.
 
 #### What I'm doing/have done:
  - Aug. 2017 - Jun. 2021 - \(<img src="assets/Uis.png" alt="UiS" height="15" />\) Computer science student [<img src="assets/Uis.png" alt="UiS" height="25" />](https://uis.no/en)
