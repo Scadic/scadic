@@ -18,19 +18,24 @@ Currently working as a Security Infrastructure Engineer @Equinor.
 #### Trophys 🏆
 [![trophy](https://github-profile-trophy.vercel.app/?username=scadic&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
-<!--📫 How to reach me: [<img src="assets/Gmail.png" alt="Gmail" height="25" />](mailto:trulshskadberg@gmail.com) [<img src="assets/Linkedin.png" alt="Linkedin" height="25" />](https://www.linkedin.com/in/truls-hansen-skadberg) [<img src="assets/Instagram.png" alt="Instagram" height="25" />](https://www.instagram.com/truls.skadn/)-->
+- 🔭 I’m currently working on whatever I want
+- 🌱 I’m currently learning how to not give a damn
+- 👯 I’m looking to collaborate on interesting stuff
+- 🤔 I’m looking for help with NULL
+- 💬 Ask me about Windows/Servers/IT Infrastructure
+- 📫 How to reach me: Just don't!
+- 😄 Pronouns: ♂ 🜁🜂🜃🜄
+- ⚡ Fun fact: I used to TA in a subject that taught CCNA
 
 <!--
+📫 How to reach me: 
+[<img src="assets/Gmail.png" alt="Gmail" height="25" />](mailto:howaboutyou@mindyourownbusiness.org) 
+[<img src="assets/Linkedin.png" alt="Linkedin" height="25" />](https://www.linkedin.com)
+[<img src="assets/Instagram.png" alt="Instagram" height="25" />](https://www.instagram.com)
+
+
 **Scadic/scadic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
