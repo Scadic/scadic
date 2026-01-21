@@ -21,7 +21,7 @@ Currently working as a Security Infrastructure Engineer @Equinor.
 - 🔭 I’m currently working on whatever I want
 - 🌱 I’m currently learning how to not give a damn
 - 👯 I’m looking to collaborate on interesting stuff
-- 🤔 I’m looking for help with NULL
+- 🤔 I’m looking for help with `NULL`
 - 💬 Ask me about Windows/Servers/IT Infrastructure
 - 📫 How to reach me: Just don't!
 - 😄 Pronouns: ♂ 🜁🜂🜃🜄
