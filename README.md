@@ -18,7 +18,7 @@ Currently working as a Security Infrastructure Engineer @Equinor.
 #### Trophys 🏆
 [![trophy](https://github-profile-trophy.vercel.app/?username=scadic&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
-📫 How to reach me: [<img src="assets/Gmail.png" alt="Gmail" height="25" />](mailto:trulshskadberg@gmail.com) [<img src="assets/Linkedin.png" alt="Linkedin" height="25" />](https://www.linkedin.com/in/truls-hansen-skadberg) <!--[<img src="assets/Instagram.png" alt="Instagram" height="25" />](https://www.instagram.com/truls.skadn/)-->
+<!--📫 How to reach me: [<img src="assets/Gmail.png" alt="Gmail" height="25" />](mailto:trulshskadberg@gmail.com) [<img src="assets/Linkedin.png" alt="Linkedin" height="25" />](https://www.linkedin.com/in/truls-hansen-skadberg) [<img src="assets/Instagram.png" alt="Instagram" height="25" />](https://www.instagram.com/truls.skadn/)-->
 
 <!--
 **Scadic/scadic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
